@@ -1,0 +1,94 @@
+body
+{
+  
+	background-color: gray ;
+
+}
+
+
+
+input[type=text] {
+  width: 40%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 1px solid #F30C8E ;
+  border-radius: 3px;
+  outline: none;
+  margin-left: 60%;
+
+}
+
+#whatsapptext
+{
+	font-size: 180%;
+    color: white;
+    margin-top: 0%;
+}
+
+#whatapps
+{
+	margin-top: -37%;
+}
+#size
+{
+font-size: 420%;	
+}
+.fa-whatsapp
+{
+	color: reda;
+	width: 40%;
+	
+
+}
+#btn
+{
+margin-left: 60%;
+  padding: 10px 10px;
+  margin-top: 1%;
+  background-color: white;
+  outline: none;
+ border: none;
+ width: 17%;
+}
+#text
+{
+	margin-left: 60%;
+    margin-top: -5%;
+
+}
+
+#password
+{
+	width: 40%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 1px solid #F30C8E ;
+  border-radius: 3px;
+  outline: none;
+  margin-left: 60%;
+}
+
+#phone
+{
+	width: 40%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 1px solid #F30C8E ;
+  border-radius: 3px;
+  outline: none;
+  margin-left: 60%;
+}
+#mydiv
+{
+	margin-top: 15%;
+	background-color: gray  ;
+	padding: 5%;
+   -webkit-box-shadow: 0 0 10px #fff;
+    box-shadow: 0 0 10px #fff;
+    width: 50%;
+    height: 220px;
+    margin-left: 20%;
+}
